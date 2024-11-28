@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D7E9E9262CF8D95E0075F57D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7E9E9072CF8D95D0075F57D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D7E9E90E2CF8D95D0075F57D;
+			remoteInfo = kkirikkiri;
+		};
+		D7E9E9302CF8D95E0075F57D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7E9E9072CF8D95D0075F57D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D7E9E90E2CF8D95D0075F57D;
+			remoteInfo = kkirikkiri;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D7E9E90F2CF8D95D0075F57D /* kkirikkiri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kkirikkiri.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7E9E9252CF8D95E0075F57D /* kkirikkiriTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kkirikkiriTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7E9E92F2CF8D95E0075F57D /* kkirikkiriUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kkirikkiriUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		D7E9E9372CF8D95E0075F57D /* Exceptions for "kkirikkiri" folder in "kkirikkiri" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = D7E9E90E2CF8D95D0075F57D /* kkirikkiri */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D7E9E9112CF8D95D0075F57D /* kkirikkiri */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				D7E9E9372CF8D95E0075F57D /* Exceptions for "kkirikkiri" folder in "kkirikkiri" target */,
+			);
+			path = kkirikkiri;
+			sourceTree = "<group>";
+		};
+		D7E9E9282CF8D95E0075F57D /* kkirikkiriTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = kkirikkiriTests;
+			sourceTree = "<group>";
+		};
+		D7E9E9322CF8D95E0075F57D /* kkirikkiriUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = kkirikkiriUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D7E9E90C2CF8D95D0075F57D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7E9E9222CF8D95E0075F57D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7E9E92C2CF8D95E0075F57D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D7E9E9062CF8D95D0075F57D = {
+			isa = PBXGroup;
+			children = (
+				D7E9E9112CF8D95D0075F57D /* kkirikkiri */,
+				D7E9E9282CF8D95E0075F57D /* kkirikkiriTests */,
+				D7E9E9322CF8D95E0075F57D /* kkirikkiriUITests */,
+				D7E9E9102CF8D95D0075F57D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D7E9E9102CF8D95D0075F57D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D7E9E90F2CF8D95D0075F57D /* kkirikkiri.app */,
+				D7E9E9252CF8D95E0075F57D /* kkirikkiriTests.xctest */,
+				D7E9E92F2CF8D95E0075F57D /* kkirikkiriUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D7E9E90E2CF8D95D0075F57D /* kkirikkiri */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7E9E9382CF8D95E0075F57D /* Build configuration list for PBXNativeTarget "kkirikkiri" */;
+			buildPhases = (
+				D7E9E90B2CF8D95D0075F57D /* Sources */,
+				D7E9E90C2CF8D95D0075F57D /* Frameworks */,
+				D7E9E90D2CF8D95D0075F57D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D7E9E9112CF8D95D0075F57D /* kkirikkiri */,
+			);
+			name = kkirikkiri;
+			packageProductDependencies = (
+			);
+			productName = kkirikkiri;
+			productReference = D7E9E90F2CF8D95D0075F57D /* kkirikkiri.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D7E9E9242CF8D95E0075F57D /* kkirikkiriTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7E9E93D2CF8D95E0075F57D /* Build configuration list for PBXNativeTarget "kkirikkiriTests" */;
+			buildPhases = (
+				D7E9E9212CF8D95E0075F57D /* Sources */,
+				D7E9E9222CF8D95E0075F57D /* Frameworks */,
+				D7E9E9232CF8D95E0075F57D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D7E9E9272CF8D95E0075F57D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D7E9E9282CF8D95E0075F57D /* kkirikkiriTests */,
+			);
+			name = kkirikkiriTests;
+			packageProductDependencies = (
+			);
+			productName = kkirikkiriTests;
+			productReference = D7E9E9252CF8D95E0075F57D /* kkirikkiriTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D7E9E92E2CF8D95E0075F57D /* kkirikkiriUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7E9E9402CF8D95E0075F57D /* Build configuration list for PBXNativeTarget "kkirikkiriUITests" */;
+			buildPhases = (
+				D7E9E92B2CF8D95E0075F57D /* Sources */,
+				D7E9E92C2CF8D95E0075F57D /* Frameworks */,
+				D7E9E92D2CF8D95E0075F57D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D7E9E9312CF8D95E0075F57D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D7E9E9322CF8D95E0075F57D /* kkirikkiriUITests */,
+			);
+			name = kkirikkiriUITests;
+			packageProductDependencies = (
+			);
+			productName = kkirikkiriUITests;
+			productReference = D7E9E92F2CF8D95E0075F57D /* kkirikkiriUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D7E9E9072CF8D95D0075F57D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					D7E9E90E2CF8D95D0075F57D = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					D7E9E9242CF8D95E0075F57D = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = D7E9E90E2CF8D95D0075F57D;
+					};
+					D7E9E92E2CF8D95E0075F57D = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = D7E9E90E2CF8D95D0075F57D;
+					};
+				};
+			};
+			buildConfigurationList = D7E9E90A2CF8D95D0075F57D /* Build configuration list for PBXProject "kkirikkiri" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D7E9E9062CF8D95D0075F57D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D7E9E9102CF8D95D0075F57D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D7E9E90E2CF8D95D0075F57D /* kkirikkiri */,
+				D7E9E9242CF8D95E0075F57D /* kkirikkiriTests */,
+				D7E9E92E2CF8D95E0075F57D /* kkirikkiriUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D7E9E90D2CF8D95D0075F57D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7E9E9232CF8D95E0075F57D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7E9E92D2CF8D95E0075F57D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D7E9E90B2CF8D95D0075F57D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7E9E9212CF8D95E0075F57D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7E9E92B2CF8D95E0075F57D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D7E9E9272CF8D95E0075F57D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D7E9E90E2CF8D95D0075F57D /* kkirikkiri */;
+			targetProxy = D7E9E9262CF8D95E0075F57D /* PBXContainerItemProxy */;
+		};
+		D7E9E9312CF8D95E0075F57D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D7E9E90E2CF8D95D0075F57D /* kkirikkiri */;
+			targetProxy = D7E9E9302CF8D95E0075F57D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D7E9E9392CF8D95E0075F57D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = kkirikkiri/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.beom.kkirikkiri;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D7E9E93A2CF8D95E0075F57D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = kkirikkiri/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.beom.kkirikkiri;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D7E9E93B2CF8D95E0075F57D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D7E9E93C2CF8D95E0075F57D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D7E9E93E2CF8D95E0075F57D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.beom.kkirikkiriTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/kkirikkiri.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/kkirikkiri";
+			};
+			name = Debug;
+		};
+		D7E9E93F2CF8D95E0075F57D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.beom.kkirikkiriTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/kkirikkiri.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/kkirikkiri";
+			};
+			name = Release;
+		};
+		D7E9E9412CF8D95E0075F57D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.beom.kkirikkiriUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = kkirikkiri;
+			};
+			name = Debug;
+		};
+		D7E9E9422CF8D95E0075F57D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.beom.kkirikkiriUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = kkirikkiri;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D7E9E90A2CF8D95D0075F57D /* Build configuration list for PBXProject "kkirikkiri" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7E9E93B2CF8D95E0075F57D /* Debug */,
+				D7E9E93C2CF8D95E0075F57D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D7E9E9382CF8D95E0075F57D /* Build configuration list for PBXNativeTarget "kkirikkiri" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7E9E9392CF8D95E0075F57D /* Debug */,
+				D7E9E93A2CF8D95E0075F57D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D7E9E93D2CF8D95E0075F57D /* Build configuration list for PBXNativeTarget "kkirikkiriTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7E9E93E2CF8D95E0075F57D /* Debug */,
+				D7E9E93F2CF8D95E0075F57D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D7E9E9402CF8D95E0075F57D /* Build configuration list for PBXNativeTarget "kkirikkiriUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7E9E9412CF8D95E0075F57D /* Debug */,
+				D7E9E9422CF8D95E0075F57D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D7E9E9072CF8D95D0075F57D /* Project object */;
+}
