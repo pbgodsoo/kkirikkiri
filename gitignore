@@ -1,0 +1,6 @@
+# Xcode 관련 파일 제외
+DerivedData/
+*.xcuserdatad
+*.xcworkspace
+*.DS_Store
+*.swp

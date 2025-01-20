@@ -1,19 +1,17 @@
-//
-//  AppDelegate.swift
-//  kkirikkiri
-//
-//  Created by 박범수 on 11/29/24.
-//
-
 import UIKit
+import FirebaseCore
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
+    //firebase
+    var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        // firebase
+        FirebaseApp.configure()
+        //print("Firebase configured: \(FirebaseApp.app() != nil)")
         return true
     }
 
