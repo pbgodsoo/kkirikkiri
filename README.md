@@ -10,7 +10,10 @@
 ## 기술 스택
 - **개발 언어**: Swift  
 - **프레임워크**: UIKit  
-- **데이터베이스**: Firebase  
+- **데이터베이스**: Firebase
+
+## UI 설계
+https://www.figma.com/design/cJZj49ZG4K6f9ke6UXIBMt/%EB%81%BC%EB%A6%AC%EB%81%BC%EB%A6%AC?node-id=0-1&t=rU3uOViBMQ8j4U50-1
 
 ## 주요 기능
 ### 1. 팀원 모집
