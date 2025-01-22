@@ -34,7 +34,11 @@ https://www.figma.com/design/cJZj49ZG4K6f9ke6UXIBMt/%EB%81%BC%EB%A6%AC%EB%81%BC%
 
 ### 5. 팀원 리뷰 및 평가
 - 활동 완료 후 팀원 평가 및 별점, 리뷰 작성 가능  
-- 지원자와 팀장의 리뷰는 팀원 모집 시 확인 가능  
+- 지원자와 팀장의 리뷰는 팀원 모집 시 확인 가능
+
+## 데모 영상
+![ezgif-6-23515eaac2](https://github.com/user-attachments/assets/4047c237-ec12-4755-a44d-2d155d34a789)
+
 
 ---
 > 교내 비교과활동 참여를 쉽고 효과적으로 만들기 위한 애플리케이션, **끼리끼리**와 함께하세요!
