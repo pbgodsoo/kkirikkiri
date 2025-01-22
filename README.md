@@ -37,8 +37,9 @@ https://www.figma.com/design/cJZj49ZG4K6f9ke6UXIBMt/%EB%81%BC%EB%A6%AC%EB%81%BC%
 - 지원자와 팀장의 리뷰는 팀원 모집 시 확인 가능
 
 ## 데모 영상
-![ezgif-6-23515eaac2](https://github.com/user-attachments/assets/4047c237-ec12-4755-a44d-2d155d34a789)
-![화면이동](https://github.com/user-attachments/assets/407457db-3bae-47b5-802e-3ec2fdf5e562)
+![검색](https://github.com/user-attachments/assets/45bdfcdf-9430-4cea-99ab-895c321a24fa)
+![화면이동](https://github.com/user-attachments/assets/d312218d-661d-4c95-9fe0-2b741b6c66b8)
+![필터링](https://github.com/user-attachments/assets/f9e453f1-3a9f-4bc9-85b8-1da200051854)
 
 
 
