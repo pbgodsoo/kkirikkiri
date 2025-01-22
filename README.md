@@ -38,6 +38,7 @@ https://www.figma.com/design/cJZj49ZG4K6f9ke6UXIBMt/%EB%81%BC%EB%A6%AC%EB%81%BC%
 
 ## 데모 영상
 | 로그인 화면 | 화면 이동 | 활동 검색| 필터링 화면 |
+|-------------|-----------|-------------|----------------|
 ![로그인](https://github.com/user-attachments/assets/22ed4874-ebbd-4891-a5e9-20dea406ac48) | ![화면이동](https://github.com/user-attachments/assets/7ec62ac6-1423-4312-91ae-395d7d9d414a) | ![검색](https://github.com/user-attachments/assets/a1fb42ba-d4ab-4482-8510-5d98f697b902) | ![필터링](https://github.com/user-attachments/assets/c5af5eba-940c-417e-a8cb-f52060d493a6)
 
 ---
