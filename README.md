@@ -40,10 +40,9 @@ https://www.figma.com/design/cJZj49ZG4K6f9ke6UXIBMt/%EB%81%BC%EB%A6%AC%EB%81%BC%
 | 로그인 화면 | 화면 이동 | 활동 검색 | 필터링 화면 |
 |-------------|-----------|-------------|----------------|
 | ![로그인](https://github.com/user-attachments/assets/22ed4874-ebbd-4891-a5e9-20dea406ac48) | ![화면이동](https://github.com/user-attachments/assets/7ec62ac6-1423-4312-91ae-395d7d9d414a) | ![검색](https://github.com/user-attachments/assets/a1fb42ba-d4ab-4482-8510-5d98f697b902) | ![필터링](https://github.com/user-attachments/assets/c5af5eba-940c-417e-a8cb-f52060d493a6) |
-|-------------|-----------|-------------|----------------|
-| 팀 만들기 | 비밀번호 찾기 | 활동 검색 | 필터링 화면 |
-|-------------|-----------|-------------|----------------|
-| 1 | ![비밀번호 찾기](https://github.com/user-attachments/assets/ba4eb384-06bc-4fbf-a97b-697d5867432c) | 2 | 3 |
+| 팀 만들기 | 비밀번호 찾기 | 팀원평가 | 팀원평가 |
+| ![팀만들기](https://github.com/user-attachments/assets/9f1f0d61-932f-43f0-995d-b25be2b9e2bf) | ![비밀번호 찾기](https://github.com/user-attachments/assets/ba4eb384-06bc-4fbf-a97b-697d5867432c) | ![팀원평가](https://github.com/user-attachments/assets/d93c56a3-b78f-4b1a-b56c-92488fd24f2c)
+ | 3 |
 
 ---
 > 교내 비교과활동 참여를 쉽고 효과적으로 만들기 위한 애플리케이션, **끼리끼리**와 함께하세요!
