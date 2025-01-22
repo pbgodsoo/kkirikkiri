@@ -37,11 +37,10 @@ https://www.figma.com/design/cJZj49ZG4K6f9ke6UXIBMt/%EB%81%BC%EB%A6%AC%EB%81%BC%
 - 지원자와 팀장의 리뷰는 팀원 모집 시 확인 가능
 
 ## 데모 영상
-![검색](https://github.com/user-attachments/assets/45bdfcdf-9430-4cea-99ab-895c321a24fa)
-![화면이동](https://github.com/user-attachments/assets/d312218d-661d-4c95-9fe0-2b741b6c66b8)
-![필터링](https://github.com/user-attachments/assets/f9e453f1-3a9f-4bc9-85b8-1da200051854)
-
-
+![로그인](https://github.com/user-attachments/assets/22ed4874-ebbd-4891-a5e9-20dea406ac48)
+![화면이동](https://github.com/user-attachments/assets/7ec62ac6-1423-4312-91ae-395d7d9d414a)
+![검색](https://github.com/user-attachments/assets/a1fb42ba-d4ab-4482-8510-5d98f697b902)
+![필터링](https://github.com/user-attachments/assets/c5af5eba-940c-417e-a8cb-f52060d493a6)
 
 ---
 > 교내 비교과활동 참여를 쉽고 효과적으로 만들기 위한 애플리케이션, **끼리끼리**와 함께하세요!
