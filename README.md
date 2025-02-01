@@ -43,5 +43,7 @@ https://www.figma.com/design/cJZj49ZG4K6f9ke6UXIBMt/%EB%81%BC%EB%A6%AC%EB%81%BC%
 | 화면 이동 | 팀 만들기 | 팀원평가 | 팀원평가 |
 | ![화면이동](https://github.com/user-attachments/assets/7ec62ac6-1423-4312-91ae-395d7d9d414a) | ![팀만들기](https://github.com/user-attachments/assets/e508ed35-7659-4630-8d80-177f7497e47c) | ![팀원평가](https://github.com/user-attachments/assets/d93c56a3-b78f-4b1a-b56c-92488fd24f2c) | ![팀원평가2](https://github.com/user-attachments/assets/ba33a014-04b3-4982-b5d7-6d815f7ec024) |
 
+<!--
 ---
 > 교내 비교과활동 참여를 쉽고 효과적으로 만들기 위한 애플리케이션, **끼리끼리**와 함께하세요!
+-->
